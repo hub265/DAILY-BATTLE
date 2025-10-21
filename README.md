@@ -25,7 +25,7 @@
     }  
   
     h1 {  
-      color: light blue;  
+      color: blue;  
       margin-top: 30px;  
       font-size: 1.9em;  
       letter-spacing: 1px;  
