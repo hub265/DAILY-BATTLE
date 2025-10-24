@@ -21,13 +21,15 @@
       width: 180px;  
       height: 180px;  
       border-radius: 15px;  
+      box-shadow: 0 0 25px rgba(0, 153, 255, 0.3);  
     }  
   
     h1 {  
-      color: red;  
-      margin-top: 30px;  
-      font-size: 1.9em;  
+      color: #00aaff;  /* 🔵 Blue color for DAILY BATTLE */  
+      margin-top: 25px;  
+      font-size: 2em;  
       letter-spacing: 1px;  
+      text-shadow: 0 0 10px rgba(0,170,255,0.6);  
     }  
   
     p {  
@@ -61,11 +63,11 @@
       padding: 20px;  
       width: 85%;  
       border-radius: 12px;  
-      box-shadow: 0 0 12px rgba(255,0,0,0.3);  
+      box-shadow: 0 0 12px rgba(0,170,255,0.3);  
     }  
   
     .feature h3 {  
-      color: red;  
+      color: #00aaff;  
       margin-bottom: 12px;  
       font-size: 1.2em;  
     }  
@@ -80,13 +82,13 @@
 <body>  
   
   <div class="logo">  
-    <img src="https://github.com/user-attachments/assets/348f763d-f062-41fe-855a-" alt="DAILY BATTLE Logo">  
+    <!-- 🆕 Updated Logo -->
+    <img src="https://github.com/user-attachments/assets/9e2c18ea-5d66-429f-adf2-0025791c5f86" alt="DAILY BATTLE Logo">  
   </div>  
   
   <h1>DAILY BATTLE</h1>  
   <p>Join India's Best Free Fire Tournament • Compete Daily, Win Cash Instantly 💥</p>  
   
-  <!-- ✅ Updated Download Link Here -->
   <a href="https://ga-fs.primexop.com/11593/androidBuilds/daily-battleV1.apk" class="download-btn">⚔ Download App (APK)</a>  
   
   <div class="feature">  
